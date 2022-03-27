@@ -6,6 +6,8 @@ I have two branch in the repository, which are master and dev
 ```bash
 git checkout -b dev
 git push origin dev
+```
+```bash
 Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
 remote: 
 remote: Create a pull request for 'dev' on GitHub by visiting:
@@ -19,6 +21,8 @@ git checkhout master
 git add .
 git commit -m "index page changed"
 git push origin master
+```
+```bash
 Enumerating objects: 7, done.
 Counting objects: 100% (7/7), done.
 Delta compression using up to 4 threads
